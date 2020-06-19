@@ -3,7 +3,7 @@ Clone the repository: https://github.com/hugonzb/EmailAddress-Checker.git
 Compile: javac EmailAddresses.java
 Run: java EmailAddresses
 
-After running, type input and press enter for each new line required. When all input has been typed, press ctrl-z (when on windows terminal) or ctrl-d (when on drjava or MacOS) to submit the input.
+After running, type input and press enter for each new line required. When all input has been typed, press ctrl-d (when on windows terminal) or ctrl-z (when on drjava or MacOS) to submit the input.
 
 Example Test cases:
 
