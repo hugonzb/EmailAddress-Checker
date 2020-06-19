@@ -1,11 +1,11 @@
-How to compile and run:
+Clone the repository: https://github.com/hugonzb/EmailAddress-Checker.git
 
-javac EmailAddresses.java
-java EmailAddresses 
+Compile: javac EmailAddresses.java
+Run: java EmailAddresses
 
 After running, type input and press enter for each new line required. When all input has been typed, press ctrl-z (when on windows terminal) or ctrl-d (when on drjava or MacOS) to submit the input.
 
-Test cases:
+Example Test cases:
 
 hello@@gmail.com
 123.123@[123.123.123.123]
